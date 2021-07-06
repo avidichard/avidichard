@@ -1,3 +1,3 @@
 - 👋 Hi, I’m David Richard
 - 👀 I’m interested in Game Moding, Small software developement and Game Creation
-- 🌱 I’m currently learning FASM
+- 🌱 I’m currently learning FASM and patience
